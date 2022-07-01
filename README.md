@@ -12,7 +12,7 @@ When the rules change, all parties are required to revisit their implementation.
 
 ## Discussion and Collaboration
 
-This is intended to be an open shared standard for contest definition. It can only succeed if the process is owned by the entire contesting community and as such the discussion will happen in public, using the [Wiki](https://github.com/vk6flab/amateur-contesting-standard.wiki.git) and other tools as required by the community.
+This is intended to be an open shared standard for contest definition. It can only succeed if the process is owned by the entire contesting community and as such the discussion will happen in public, using the [Wiki](https://github.com/vk6flab/amateur-contesting-standard/wiki) and other tools as required by the community.
 
 ## Licenssing
 
